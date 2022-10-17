@@ -5,7 +5,7 @@
 
 The solution is a simple .NET 6.0 Console App  
 Simply build and run on VS
-All results print to the console
+All results print to the console.
 
 ## Tools
 
